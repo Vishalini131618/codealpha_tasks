@@ -17,7 +17,7 @@ This repository contains projects completed as part of my CodeAlpha internship.
 - Objective: Recognize handwritten digits using a trained Machine Learning model.
 - Model: `handwritten_digit_model.keras`
 - Application: `apppp.py`
-- Notebook: `CodeAlpha Handwritten Character Recognition`
+- Notebook: `odeAlpha_Handwritten_Character_Recognition..ipynb`
 
 ## 🛠️ Technologies Used
 - Python
